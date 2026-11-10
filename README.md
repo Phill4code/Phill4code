@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phill4code
+- 👋 Hi, I’m @Phil
 - 👀 I’m interested in web development, networking, cybersecurity, data science and forex trading.
 - 🌱 I’m currently learning nest.js and systems administration.
 - 💞️ I’m looking to collaborate on a nest.js application or system
